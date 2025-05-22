@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my classrom
 - 📫 How to reach me gustavo.dubovicki@etec.sp.gov.br
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im jet the hawk
+- ⚡ Fun fact: I love coding
 
 <!---
 Dubovicki/Dubovicki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
